@@ -5,7 +5,7 @@ An end-to-end financial data pipeline that automates an intrinsic valuation of Z
 
 ## 🚀 Live Project Ecosystem
 * **Automated Python Script:** [Click Here for Google Colab Link](https://colab.research.google.com/drive/1qesntxz9zSyUF3d4xL5iEGV_OSTFJcaq?usp=sharing)
-* **Interactive Frontend Client Dashboard:** [Click Here for Live Tableau Dashboard Link](https://public.tableau.com/views/AssetAllocationFramework/Sheet2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **Interactive Frontend Client Dashboard:** [Click Here for Live Tableau Dashboard Link](https://public.tableau.com/views/AssetAllocationFramework/PortfolioAllocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📊 Client Asset Allocation Model Interface
 *Click on the dashboard image below to view and interact with the live charts, dynamic tooltips, and real-time asset exposures on Tableau Public:*
