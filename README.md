@@ -4,7 +4,7 @@
 An end-to-end financial data pipeline that automates an intrinsic valuation of Zomato Ltd and structures a multi-asset portfolio for an Indian UHNW family office.
 
 ## 🚀 Live Project Ecosystem
-* **Automated Python Script:** [Click Here for Google Colab Link](https://colab.research.google.com/drive/1qesntxz9zSyUF3d4xL5iEGV_OSTFJcaq?usp=sharing)
+* **Automated Python Script:** [Click Here for Google Colab Link](https://colab.research.google.com/drive/1BYJkbIlMtmySyZTzZwMJidWXJS5SN2se?usp=sharing)
 * **Interactive Frontend Client Dashboard:** [Click Here for Live Tableau Dashboard Link](https://public.tableau.com/views/AssetAllocationFramework/PortfolioAllocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📊 Client Asset Allocation Model Interface
